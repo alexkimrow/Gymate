@@ -7,9 +7,8 @@
 Live Demo: <a href='https://gymate-alexrodeveloper.vercel.app/'>Gymate Demo</a>
 
 <h3>Build with:</h3>
-
-» Tailwind CSS <br>
-» React JS
+- React JS
+- Tailwind CSS
 
 <h2>Screenshots of the Project </h2>
 <br>
